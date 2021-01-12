@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [SearchCamp](https://search-camp.herokuapp.com/)
 
-- 🌱 I’m currently learning **Next.js, Gatsby.js, WebGL, GraphQL**
+- 🌱 I’m currently learning **Next.js, Gatsby.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://www.arthur-itzhaki.com/](https://www.arthur-itzhaki.com/)
+- 👨‍💻 Some of my projects are available at [https://www.arthur-itzhaki.com/](https://www.arthur-itzhaki.com/)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript Foundations, CSS**
 
 - 📫 How to reach me **arthur.itzhaki@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hMrpyFGCVXr14lrUCJxolsJLknwAH5UD/view](https://drive.google.com/file/d/1hMrpyFGCVXr14lrUCJxolsJLknwAH5UD/view)
 
-- ⚡ Fun fact **Isn't it crazy how far we've come technology wise, yet we're almost slowing down?**
+- ⚡ Fun fact **We've probably traveled more in our lifetimes, in this generation, than our ancestors combined.**
 
 
 <h3 align="left">Languages and Tools:</h3>
