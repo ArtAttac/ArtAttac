@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artattac" alt="artattac" /></a> </p>
 
-- 🔭 I’m currently working on [SearchCamp](https://search-camp.herokuapp.com/)
+- 🔭 Finished [SearchCamp](https://search-camp.herokuapp.com/)
 
-- 🌱 I’m currently learning **Next.js, Gatsby.js, TypeScript**
+- 🌱 I’m currently learning **Next.js, TypeScript**
 
 - 👨‍💻 Some of my projects are available at [https://www.arthur-itzhaki.com/](https://www.arthur-itzhaki.com/)
 
-- 💬 Ask me about **React, JavaScript Foundations, CSS**
+- 💬 Ask me about **React, JavaScript, CSS**
 
 - 📫 How to reach me **arthur.itzhaki@gmail.com**
 
